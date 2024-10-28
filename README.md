@@ -39,7 +39,7 @@
   
 ## 논문실적
 - 2002 웹서비스를 위한 소프트웨어 공학,정보처리학회
-- 2002 애플리케이션을 위한 지향의 분석 방안Web Services Goal ,한국정보과학회,주저자
+- 2002 Web Services 애플리케이션을 위한 Goal지향의 분석 방안 ,한국정보과학회,주저자
 - 2002 UML Based Web Services Application Development Method ,ISFST2002,공저자
 - 2003 석사논문 : UML 근간의 DAML-S서비스 프로파일 및 서비스 모델의 분석방안, 주저자
 - 2023 온라인 세미나 , 2023 스마트미디어학회, 공저자
